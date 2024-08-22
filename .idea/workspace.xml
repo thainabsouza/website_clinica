@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="449ed33e-b710-4780-84a0-843cb8df50ff" name="Changes" comment="Concluindo o merge com o repositório remoto">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src_back/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_back/api.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="clinica-completa" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thainabsouza&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thainabsouza/Sistema.git&quot;,
+    &quot;accountId&quot;: &quot;6eceeaca-c507-4329-929b-2d7ad68ea2c3&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;thainabsouza&quot;,
+    &quot;repository&quot;: &quot;ClinicaVeterinaria&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kbtLD8O57f7Bq3al94hjMvFrBP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProjetoApplication.executor": "Run",
+    "JUnit.ClienteServiceTest.testDeleteById.executor": "Run",
+    "JUnit.ClienteServiceTest.testFindAll.executor": "Run",
+    "JUnit.ClienteServiceTest.testFindById.executor": "Run",
+    "JUnit.ClienteServiceTest.testSave.executor": "Run",
+    "JUnit.ClienteTest.executor": "Run",
+    "JUnit.ClienteTest.testClienteConstructorAndGetters.executor": "Run",
+    "JUnit.ClienteTest.testSetters.executor": "Run",
+    "JUnit.ClienteTest.testToString.executor": "Run",
+    "JUnit.ClienteTest1.executor": "Run",
+    "JUnit.ClienteTest1.getDescricao.executor": "Run",
+    "JUnit.ClienteTest1.getId.executor": "Run",
+    "JUnit.ClienteTest1.getNome.executor": "Run",
+    "JUnit.ClienteTest1.setDescricao.executor": "Run",
+    "JUnit.ClienteTest1.setId.executor": "Run",
+    "JUnit.ClienteTest1.setNome.executor": "Run",
+    "JUnit.ClienteTest1.testToString.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ProjetoApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "projec",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thabezerra\Downloads\Clinica-master\frontend\app\src\pages" />
+      <recent name="C:\Users\thabezerra\Downloads\Clinica-master\frontend\app\src\components" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.clinica.projeto.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjetoApplication">
+    <configuration name="ClienteServiceTest.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.projeto.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.projeto.service" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.projeto.service.ClienteServiceTest" />
+      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.projeto.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.projeto.service" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.projeto.service.ClienteServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.projeto.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.projeto.service" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.projeto.service.ClienteServiceTest" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.projeto.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.projeto.service" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.projeto.service.ClienteServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.projeto.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.projeto.model" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.projeto.model.ClienteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Clinica-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Clinica-master" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjetoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="projeto" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clinica.projeto.ProjetoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteTest" />
+        <item itemvalue="JUnit.ClienteServiceTest.testFindAll" />
+        <item itemvalue="JUnit.ClienteServiceTest.testFindById" />
+        <item itemvalue="JUnit.ClienteServiceTest.testSave" />
+        <item itemvalue="JUnit.ClienteServiceTest.testDeleteById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="449ed33e-b710-4780-84a0-843cb8df50ff" name="Changes" comment="" />
+      <created>1723564046921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723564046921</updated>
+      <workItem from="1723564049335" duration="764000" />
+      <workItem from="1723564830663" duration="1701000" />
+      <workItem from="1723571519805" duration="27888000" />
+      <workItem from="1723641256346" duration="15006000" />
+      <workItem from="1723662573076" duration="5317000" />
+      <workItem from="1723709595358" duration="199000" />
+      <workItem from="1723709944716" duration="3276000" />
+      <workItem from="1723713550785" duration="2970000" />
+      <workItem from="1723732707190" duration="30000" />
+      <workItem from="1723752245009" duration="2030000" />
+      <workItem from="1723754442453" duration="9000" />
+      <workItem from="1723822524149" duration="153000" />
+      <workItem from="1723823827954" duration="48000" />
+      <workItem from="1723825263699" duration="11880000" />
+      <workItem from="1724300724496" duration="4759000" />
+    </task>
+    <task id="LOCAL-00001" summary="Concluindo o merge com o repositório remoto">
+      <option name="closed" value="true" />
+      <created>1723710861191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723710861191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Concluindo o merge com o repositório remoto">
+      <option name="closed" value="true" />
+      <created>1723711537761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723711537761</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Concluindo o merge com o repositório remoto">
+      <option name="closed" value="true" />
+      <created>1723712245614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723712245614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Concluindo o merge com o repositório remoto">
+      <option name="closed" value="true" />
+      <created>1724129953632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724129953632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Concluindo o merge com o repositório remoto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concluindo o merge com o repositório remoto" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
