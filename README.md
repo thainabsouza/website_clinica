@@ -45,7 +45,7 @@
 11. **Cadastro de Clientes:**
     - **Nome:** Nick
     - **Descrição:** Poodle marrom
-   - (Você pode copiar e colar um link da internet para cadastrar a foto do seu pet)
+   - Você pode copiar e colar um link da internet para cadastrar a foto do seu pet.
     - **Foto:** ![Foto do Nick](https://i.pinimg.com/236x/e3/c4/c2/e3c4c29c96682867a1b5ea9ee98bcddf.jpg)
     - **Categoria:** Cachorro
     - **Data de Nascimento:** 08/05/2024
